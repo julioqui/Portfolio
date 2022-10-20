@@ -3,7 +3,6 @@ import Home from "./Home";
 import Resume from "./Resume";
 import PDF from "./PDF";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import '../styles/App.css';
 
 const App = () => {
   return (
